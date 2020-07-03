@@ -5,6 +5,8 @@
 [![logopwdk.png](https://i.postimg.cc/66VC3Rgx/logopwdk.png)](https://postimg.cc/s1XMHB3T)
 
 
+<hr>
+
 
 
 #
@@ -34,7 +36,11 @@ Disediakan sebuah dataset yang berisi daftar profesi beberapa responder, unduh: 
     Output yang diharapkan:
 
     <img src='./df2.png' width='40%' height='40%'>
-    
+
+
+
+<hr>
+
 
 
 #
