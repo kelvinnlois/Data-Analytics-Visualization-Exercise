@@ -70,7 +70,8 @@ PT Telekomunikasi Indonesia Tbk|[TLKM.JK.csv](./TLKM.JK.csv)
 
 ## **Soal 3 - World Happiness**
 
-Disediakan dataset laporan tingkat kebahagiaan di berbagai negara di dunia, unduh di sini: [World Happiness](./2019.csv) lalu buatlah sebuah file _notebook_ (__.ipynb__) dan lakukan __Exploratory Data Analysis__ terhadap Dataset tersebut.
+Disediakan dataset laporan tingkat kebahagiaan di berbagai negara di dunia, unduh di repo ini atau klik : [World Happiness](./2019.csv) lalu buatlah sebuah file _notebook_ (__.ipynb__) dan lakukan __Exploratory Data Analysis__ terhadap Dataset tersebut.
 
 
+<hr>
 _Lampirkan file jawaban via email ke khumaeni@purwadhika.com_
